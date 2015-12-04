@@ -33,7 +33,7 @@ namespace Stars
 
             while (w <= y)
             {
-
+//ssdkufhsddfjj
                 rcolor = randNum.Next(1, 225);
                 gcolor = randNum.Next(1, 225);
                 bcolor = randNum.Next(1, 225);
